@@ -26,10 +26,10 @@
             ],
             "styles": [
               "src/styles.css",
-              "PortfolioWeb/node_modules/bootstrap-5.0.1-dist/css/bootstrap.css"
+              "node_modules/bootstrap-5.0.1-dist/css/bootstrap.css"
             ],
             "scripts": [
-              "PortfolioWeb/node_modules/bootstrap-5.0.1-dist/js/bootstrap.js"
+              "node_modules/bootstrap-5.0.1-dist/js/bootstrap.js"
             ]
           },
           "configurations": {
