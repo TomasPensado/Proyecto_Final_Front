@@ -3,7 +3,7 @@
 }
 
 div{
-    background-color: #a1b5cb;
+    background-color: #39A0A5;
     text-align: center;
 }
 
@@ -11,7 +11,7 @@ div{
 @media(min-width:576px){
     #fotodeperfil{
         position: absolute;
-        width: 15%;
+        width: 12%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 3%;
