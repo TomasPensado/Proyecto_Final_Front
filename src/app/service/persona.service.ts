@@ -8,8 +8,8 @@ import { persona } from '../model/persona.model';
 })
 
 export class PersonaService {
-  //URL = 'https://portfolio-web-z5od.onrender.com/personas/';
-  URL = 'http://localhost:8080/personas/';
+  URL = 'https://portfolio-web-z5od.onrender.com/personas/';
+  //URL = 'http://localhost:8080/personas/';
   constructor(private httpClient: HttpClient) { }
 
   public lista():Observable<persona[]>{
